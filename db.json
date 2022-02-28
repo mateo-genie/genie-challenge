@@ -4,39 +4,36 @@
       "id": "621d445094df7e6acc532d59",
       "title": "It is a sunny day",
       "status": "active",
-      "created": "2022-02-28T22:02:08+00:00"
+      "created": "2022-02-28T22:02:08+00:00",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "It is a sunny day!"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "Hello "
+            },
+            {
+              "type": "text",
+              "marks": [
+                {
+                  "type": "strong"
+                }
+              ],
+              "text": "World"
+            }
+          ]
+        }
+      ]
     }
-  ],
-  "content": {
-    "note_id": "621d445094df7e6acc532d59",
-    "content": [
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "It is a sunny day!"
-          }
-        ]
-      },
-      {
-        "type": "paragraph",
-        "content": [
-          {
-            "type": "text",
-            "text": "Hello "
-          },
-          {
-            "type": "text",
-            "marks": [
-              {
-                "type": "strong"
-              }
-            ],
-            "text": "World"
-          }
-        ]
-      }
-    ]
-  }
+  ]
 }
