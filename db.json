@@ -4,7 +4,7 @@
       "id": "621d445094df7e6acc532d59",
       "title": "It is a sunny day",
       "status": "active",
-      "created": "2022-02-28T22:02:08+00:00",
+      "created": "2022-01-28T00:00:00.000Z",
       "content": [
         {
           "type": "paragraph",
@@ -34,6 +34,21 @@
           ]
         }
       ]
+    },
+    {
+      "id": "621d554aeaec4a95ee8075af",
+      "title": "My first note",
+      "status": "archived",
+      "created": "2021-01-27T00:00:00.000Z",
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [
+            {
+              "type": "text",
+              "text": "My first note"
+            }
+          ]
+        }
+      ]
     }
-  ]
-}
