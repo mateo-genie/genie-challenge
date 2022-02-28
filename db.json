@@ -1,280 +1,42 @@
 {
-  "notes": [{
-    "id": "621d445094df7e6acc532d59",
-    "title": "It is a sunny day",
-    "status": "active",
-    "created": "2022-02-28T22:02:08+00:00",
-  }],
-  
-  "notesContent": {
-    "note_id": "621d445094df7e6acc532d59",
-    "json": [
+  "notes": [
     {
-      "type": "paragraph",
-      "content": [
-        {
-          "type": "span",
-          "content": [
-            {
-              "type": "text",
-              "marks": [],
-              "text": "1 INTRODUCTION"
-            }
-          ],
-          "attrs": {
-            "textCSS": {
-              "fontFamily": "Times New Roman",
-              "fontWeight": "bold"
-            },
-            "bold": true,
-            "font": "Times New Roman"
-          }
-        }
-      ],
-      "attrs": {
-        "blockCSS": {}
-      }
-    },
-    {
-      "type": "paragraph",
-      "content": [
-        {
-          "type": "span",
-          "content": [],
-          "attrs": {}
-        }
-      ],
-      "attrs": {
-        "blockCSS": {}
-      }
-    },
-    {
-      "type": "paragraph",
-      "content": [
-        {
-          "type": "span",
-          "content": [
-            {
-              "type": "text",
-              "marks": [],
-              "text": "Text classification is an important problem in Natural Language Processing (NLP). Real world use cases include spam filtering or e-mail categorization. It is a core component in more complex systems such as search and ranking. Recently, deep learning techniques based on neural networks have achieved state of the art results in various NLP applications. One of the main successes of deep learning is due to the effectiveness of recurrent networks for language modelling and their application to "
-            }
-          ],
-          "attrs": {
-            "textCSS": {
-              "fontFamily": "Times New Roman"
-            },
-            "font": "Times New Roman"
-          }
-        },
-        {
-          "type": "span",
-          "content": [
-            {
-              "type": "text",
-              "marks": [],
-              "text": "speech recognition "
-            }
-          ],
-          "attrs": {
-            "textCSS": {
-              "fontFamily": "Times New Roman",
-              "fontStyle": "italic"
-            },
-            "italic": true,
-            "font": "Times New Roman"
-          }
-        },
-        {
-          "type": "span",
-          "content": [
-            {
-              "type": "text",
-              "marks": [],
-              "text": "and"
-            }
-          ],
-          "attrs": {
-            "textCSS": {
-              "fontFamily": "Times New Roman"
-            },
-            "font": "Times New Roman"
-          }
-        },
-        {
-          "type": "span",
-          "content": [
-            {
-              "type": "text",
-              "marks": [],
-              "text": " machine translation"
-            }
-          ],
-          "attrs": {
-            "textCSS": {
-              "fontFamily": "Times New Roman",
-              "fontStyle": "italic"
-            },
-            "italic": true,
-            "font": "Times New Roman"
-          }
-        },
-        {
-          "type": "span",
-          "content": [
-            {
-              "type": "text",
-              "marks": [],
-              "text": " ("
-            }
-          ],
-          "attrs": {
-            "textCSS": {
-              "fontFamily": "Times New Roman"
-            },
-            "font": "Times New Roman"
-          }
-        },
-        {
-          "type": "span",
-          "content": [
-            {
-              "type": "text",
-              "marks": [],
-              "text": "Mikolov"
-            }
-          ],
-          "attrs": {
-            "textCSS": {
-              "fontFamily": "Times New Roman",
-              "fontStyle": "italic"
-            },
-            "italic": true,
-            "font": "Times New Roman"
-          }
-        },
-        {
-          "type": "span",
-          "content": [
-            {
-              "type": "text",
-              "marks": [],
-              "text": ", 2012"
-            }
-          ],
-          "attrs": {
-            "textCSS": {
-              "fontFamily": "Times New Roman",
-              "fontStyle": "italic"
-            },
-            "italic": true,
-            "font": "Times New Roman"
-          }
-        },
-        {
-          "type": "span",
-          "content": [
-            {
-              "type": "text",
-              "marks": [],
-              "text": "). However, in other cases including several text classification problems, it has been shown that deep networks do not convincingly beat the prior state of the art techniques ("
-            }
-          ],
-          "attrs": {
-            "textCSS": {
-              "fontFamily": "Times New Roman"
-            },
-            "font": "Times New Roman"
-          }
-        },
-        {
-          "type": "span",
-          "content": [
-            {
-              "type": "text",
-              "marks": [],
-              "text": "Wang & Manning, 2012; "
-            }
-          ],
-          "attrs": {
-            "textCSS": {
-              "fontFamily": "Times New Roman",
-              "fontStyle": "italic"
-            },
-            "italic": true,
-            "font": "Times New Roman"
-          }
-        },
-        {
-          "type": "span",
-          "content": [
-            {
-              "type": "text",
-              "marks": [],
-              "text": "Joulin"
-            }
-          ],
-          "attrs": {
-            "textCSS": {
-              "fontFamily": "Times New Roman",
-              "fontStyle": "italic"
-            },
-            "italic": true,
-            "font": "Times New Roman"
-          }
-        },
-        {
-          "type": "span",
-          "content": [
-            {
-              "type": "text",
-              "marks": [],
-              "text": " et al., 2016"
-            }
-          ],
-          "attrs": {
-            "textCSS": {
-              "fontFamily": "Times New Roman",
-              "fontStyle": "italic"
-            },
-            "italic": true,
-            "font": "Times New Roman"
-          }
-        },
-        {
-          "type": "span",
-          "content": [
-            {
-              "type": "text",
-              "marks": [],
-              "text": "). "
-            }
-          ],
-          "attrs": {
-            "textCSS": {
-              "fontFamily": "Times New Roman"
-            },
-            "font": "Times New Roman"
-          }
-        }
-      ],
-      "attrs": {
-        "blockCSS": {}
-      }
-    },
-    {
-      "type": "paragraph",
-      "content": [
-        {
-          "type": "span",
-          "content": [],
-          "attrs": {}
-        }
-      ],
-      "attrs": {
-        "blockCSS": {}
-      }
+      "id": "621d445094df7e6acc532d59",
+      "title": "It is a sunny day",
+      "status": "active",
+      "created": "2022-02-28T22:02:08+00:00"
     }
-      ]
+  ],
+  "content": {
+    "note_id": "621d445094df7e6acc532d59",
+    "content": [
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "It is a sunny day!"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Hello "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "strong"
+              }
+            ],
+            "text": "World"
+          }
+        ]
+      }
+    ]
   }
 }
